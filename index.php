@@ -7,12 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Shopify App Template</title>
-
-    <!-- Latest compiled and minified CSS -->
-      
-     
-    
+    <title>Shopify App Template</title>    
 
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <script src="js/bootstrap.min.js"></script>
@@ -22,13 +17,11 @@
 
     <script src="js/jquery.min.js"></script>  
     <script src="js/jquery.flexslider.js"></script>
-
-
 </head>
 <body class="home">
     <div class="container">
         <div class="row">
-            <div class="col-md-2 col-sm-1 hidden-xs display-table-cell v-align box" id="navigation">                
+            <div class="col-md-2 col-sm-1 hidden-xs display-table-cell v-align box" id="navigation">               
                 <div class="navi text-center">
                     <ul>
                         <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Product.png"><p class="hidden-xs hidden-sm">Select products</p></a>
@@ -91,7 +84,7 @@
             <script type="text/javascript">
     
                 $(window).load(function() {
-                // The slider being synced must be initialized first
+                
                     $('#carousel').flexslider({
                     animation: "slide",
                     controlNav: true,
@@ -110,11 +103,7 @@
                 });
 
             </script>
-
         </div>
     </div>
 </body>
-
-  
-
 </html>
