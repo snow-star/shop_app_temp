@@ -84,37 +84,25 @@
             <script type="text/javascript">
     
                 $(window).load(function() {
-                
+                        
                     $('#carousel').flexslider({
-                        animation: "slide",
+                        animation: 'slide',
+                        direction: direction,
                         controlNav: false,
-                        animationLoop: true,
-                        directionNav: false,
-                        slideshow: false,       
-                        slideshowSpeed: 7500,
-                        animationSpeed: 400,   
-                        itemWidth: 150,
-                        itemMargin: 5,
-                        startAt: 0, 
-                        move : 3,             
+                        animationLoop: false,
+                        itemWidth: 143,
+                        itemMargin: 2,
+                        maxItems: 4,
+                        slideshow: false,
                         asNavFor: '#slider'
                     });
-
                     $('#slider').flexslider({
-                        animation: "slide",
+                        animation: 'slide',
                         controlNav: false,
-                        animationLoop: true,
-                        slideshowSpeed: 7500,
-                        animationSpeed: 400,
-                        pauseOnAction: false,
-                        slideshow: true,
-                        startAt: 0, 
-                        sync: "#carousel",
-                        start: function(slider) {
-                            $('#carousel .slides li img').click(function(event){
-                                $('#slider').flexslider("play");
-                            });
-                        }
+                        directionNav: true,
+                        animationLoop: false,
+                        slideshow: false,
+                        sync: '#carousel'
                     });
                 });
 
