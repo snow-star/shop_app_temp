@@ -86,19 +86,35 @@
                 $(window).load(function() {
                 
                     $('#carousel').flexslider({
-                    animation: "slide",
-                    controlNav: true,
-                    animationLoop: false,                    
-                    asNavFor: '#slider'
+                        animation: "slide",
+                        controlNav: false,
+                        animationLoop: true,
+                        directionNav: false,
+                        slideshow: false,       
+                        slideshowSpeed: 7500,
+                        animationSpeed: 400,   
+                        itemWidth: 150,
+                        itemMargin: 5,
+                        startAt: 0, 
+                        move : 3,             
+                        asNavFor: '#slider'
                     });
 
                     $('#slider').flexslider({
-                    animation: "slide",
-                    direction: "vertical",
-                    controlNav: true,
-                    animationLoop: false,
-                    slideshow: false,
-                    sync: "#carousel"
+                        animation: "slide",
+                        controlNav: false,
+                        animationLoop: true,
+                        slideshowSpeed: 7500,
+                        animationSpeed: 400,
+                        pauseOnAction: false,
+                        slideshow: true,
+                        startAt: 0, 
+                        sync: "#carousel",
+                        start: function(slider) {
+                            $('#carousel .slides li img').click(function(event){
+                                $('#slider').flexslider("play");
+                            });
+                        }
                     });
                 });
 
