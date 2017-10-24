@@ -30,15 +30,24 @@
                         </li>
                         <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/fabric.png"><p class="hidden-xs hidden-sm">Fabric</p></a>
                         </li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/lining.png"><p class="hidden-xs hidden-sm">Lining</p></a></li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/button.png"><p class="hidden-xs hidden-sm">Buttoning</p></a></li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Lapels.png"><p class="hidden-xs hidden-sm">Lapels</p></a></li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Pockets.png"><p class="hidden-xs hidden-sm">Pockets</p></a></li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Vents.png"><p class="hidden-xs hidden-sm">Vents</p></a></li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/jacket_details.png"><p class="hidden-xs hidden-sm">Jacket details</p></a></li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Trousers.png"><p class="hidden-xs hidden-sm">Trouser style</p></a></li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Waistcoat.png"><p class="hidden-xs hidden-sm">Waistcoat</p></a></li>
-                        <li><a href="#"><img class="img-circle" src="https://canvas-static.suitopia.com/productdesigner/img/shopping-cart.55edc5d6b942.png"><p class="hidden-xs hidden-sm">Add to cart</p></a></li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/lining.png"><p class="hidden-xs hidden-sm">Lining</p></a>
+                        </li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/button.png"><p class="hidden-xs hidden-sm">Buttoning</p></a>
+                        </li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Lapels.png"><p class="hidden-xs hidden-sm">Lapels</p></a>
+                        </li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Pockets.png"><p class="hidden-xs hidden-sm">Pockets</p></a>
+                        </li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Vents.png"><p class="hidden-xs hidden-sm">Vents</p></a>
+                        </li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/jacket_details.png"><p class="hidden-xs hidden-sm">Jacket details</p></a>
+                        </li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Trousers.png"><p class="hidden-xs hidden-sm">Trouser style</p></a>
+                        </li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Waistcoat.png"><p class="hidden-xs hidden-sm">Waistcoat</p></a>
+                        </li>
+                        <li><a href="#"><img class="img-circle" src="https://canvas-static.suitopia.com/productdesigner/img/shopping-cart.55edc5d6b942.png"><p class="hidden-xs hidden-sm">Add to cart</p></a>
+                        </li>
                     </ul>
                 </div>
             </div>
