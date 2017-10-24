@@ -39,7 +39,6 @@
                         <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Trousers.png"><p class="hidden-xs hidden-sm">Trouser style</p></a></li>
                         <li><a href="#"><img class="img-circle" src="https://canvas-media.suitopia.com/var/productdesigner/tabs/Waistcoat.png"><p class="hidden-xs hidden-sm">Waistcoat</p></a></li>
                         <li><a href="#"><img class="img-circle" src="https://canvas-static.suitopia.com/productdesigner/img/shopping-cart.55edc5d6b942.png"><p class="hidden-xs hidden-sm">Add to cart</p></a></li>
-
                     </ul>
                 </div>
             </div>
