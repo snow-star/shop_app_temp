@@ -90,7 +90,7 @@
                         direction: direction,
                         controlNav: false,
                         animationLoop: false,
-                        itemWidth: 143,
+                        itemWidth: 160,
                         itemMargin: 2,
                         maxItems: 4,
                         slideshow: false,
